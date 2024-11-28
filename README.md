@@ -5,9 +5,11 @@ My name is Luca Félix. I am an IoT Student at HfG - Schwäbisch Gmünd and am w
 ## Main current project
 
 ### Survy 
+Create beautiful surveys and collect valuable feedback from your users. Make data-driven decisions with ease.
+
 [<img src="https://github.com/user-attachments/assets/2f865303-99bf-40c2-9a03-536f3155b4d2" width="360" height="189">](https://www.survy.click)
 
-Create beautiful surveys and collect valuable feedback from your users. Make data-driven decisions with ease.
+I am currently developing **Survy**, a platform to build, share and participate in surveys.<br>Adding new features every week.<br>Feel free to try it out.
 
 <hr/>
 
