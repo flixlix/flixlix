@@ -1,6 +1,7 @@
 **Hi there 👋**
 
-My name is Luca Félix. I am an IoT Student at HfG - Schwäbisch Gmünd and am working as as UX Designer and Software Developer at Bosch.
+My name is Luca Félix. I am a Digital Product Developer who studied at HfG - Schwäbisch Gmünd and worked at Robert Bosch GmbH.
+Currently working at [epilot](https://www.epilot.cloud/) 🚀
 
 ![](https://github-readme-stats.vercel.app/api?username=flixlix&show_icons=true&theme=github_dark_dimmed)
 
